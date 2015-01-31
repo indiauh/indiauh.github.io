@@ -1,0 +1,22 @@
+   IMG {
+     border: 5px solid #006699;
+     }
+     h1 {
+     	color: #CC0066;
+     }
+     h2{
+     	border-bottom: 3px solid #006699;
+     }
+    a {
+    	color: #CC0066;
+    }
+    li {
+    	list-style-type: none;
+    }
+
+body{
+background-image: url("http://st.houzz.com/simgs/36e156c102cc6cb6_4-2791/contemporary-wallpaper.jpg");
+background-repeat: repeat;
+background-position: left top;
+
+}
